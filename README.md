@@ -1,4 +1,6 @@
-# ETH Daddy 
+# GoDaddy for ETH Domains
+
+### Welcome to my mini Project. This idea was originally from DAPP University. It is a website that allows you to connect your metamask wallet and purchase ETH domains. Take note this currently works on the Hardhat Testnet which you can access locally, so you can purchase the domains with no real-world cost :)
 
 ## Technology Stack & Tools
 
